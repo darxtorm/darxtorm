@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darxtorm
-- 👀 I’m interested in networking, operating systems, automation, monitoring/observability, hardware, movies, science fiction, preparation parrots, pigeons
+- 👀 I’m interested in networking, operating systems, automation, observability, hardware, movies, scifi, preparedness, birds
 - 🌱 I’m currently learning infrastructure as code, container orchestration, sustainable gardening
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on self-hosting and home automation projects
 - 📫 How to reach me: twitter @darxtorm
 
 <!---
